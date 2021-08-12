@@ -1,0 +1,24 @@
+== Estrutura tabela ==
+Nome
+orgao
+data publicacao
+nome servidor preparo
+status
+data inicio preparo
+data fim preparo
+nome serv. envio tce
+data inicio envio
+data fim envio
+nº processo tce
+nº decisao
+data decisao
+situacao
+observacoes
+chave do processo
+mes registro
+
+== tipo usuario permissoes ==
+administrador - manutenção em tudo
+super - todas as colunas
+tipo 1 - data fim preparo e data fim envio
+tipo 2 - data fim preparo
