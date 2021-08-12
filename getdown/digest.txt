@@ -1,0 +1,7 @@
+getdown.txt = 07f8c58d5edb7c4c05c8cb4e2efac29a
+lib/jbcrypt-0.3m.jar = c5c5a22a74a54907da20278b382e7e87
+lib/itextpdf-5.5.1.jar = 9d5e9dc97ce6c0adcc21f795a54e92f1
+lib/sicp.jar = 31ac760666ce069dec720db196dfd057
+lib/postgresql-9.4-1203-jdbc42.jar = 24915442952dd005eda5561fa8112f09
+extras/getdown.jar = a932d17be376ac72f50b87b96803409a
+digest.txt = c2f68eb960a1b68f7f9c0a0389c44c7f

@@ -1,0 +1,9 @@
+appbase = http://172.16.205.150/apps/sicpro/
+allow_offline = true
+ui.name = SICPRO
+class = view.Main
+resource = extras/getdown.jar
+code = lib/jbcrypt-0.3m.jar
+code = lib/itextpdf-5.5.1.jar
+code = lib/sicp.jar
+code = lib/postgresql-9.4-1203-jdbc42.jar
